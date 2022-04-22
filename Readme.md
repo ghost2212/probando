@@ -17,4 +17,5 @@ para  salir q
 ****Atajos****
 git add .  <<<< agrega todos  los archivos
 git add -A <<<< agrega solo los archivos del area  de  preaparacion que  estemos
-  siguiendo  o modificados
+  siguiendo  o
+   modificados
