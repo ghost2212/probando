@@ -1,1 +1,0 @@
-ey  zona de  preparacion
